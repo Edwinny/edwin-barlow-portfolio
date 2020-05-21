@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 60">
+  <defs>
+      <style type="text/css">
+        @media (max-width: 415px) {
+          [id=svg_3] {
+            display: none;
+          }
+
+          [id=svg_2] {
+            transform: translateY(12px)
+          }
+        }
+      </style>    
+  </defs>
+
+ <g>
+  <title>Edwin Barlow</title>
+  <text fill="#333" stroke="#000" stroke-width="0" y="28" id="svg_2" font-size="30" font-family="'Questrial', sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" x="0">EDWIN BARLOW</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Questrial', sans-serif" font-size="20" id="svg_3" y="52.953125" x="28.5" stroke-width="0" stroke="#000" fill="#333">Software Architect</text>
+ </g>
+</svg>
